@@ -1,0 +1,7 @@
+displayName: Node.js Express
+description: Eclipse Codewind Node.js Express sample application
+tags: ["Nodejs"]
+globalMemoryLimit: 2674Mi
+icon: "https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg"
+projectType: "nodejs"
+language: "nodejs"

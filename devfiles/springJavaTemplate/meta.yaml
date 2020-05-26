@@ -1,0 +1,7 @@
+displayName: Spring Boot®
+description: Spring Boot®
+tags: ["Java", "Spring",]
+globalMemoryLimit: 2674Mi
+icon: "https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg"
+projectType: "spring"
+language: "java"
